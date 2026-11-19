@@ -38,3 +38,13 @@ ORDER BY times DESC, innings, over_no, ball_no;
 ```
 
 Data: Cricsheet (cricsheet.org), Open Data Commons Attribution License.
+
+## A month of page views
+
+![Daily views of Virat Kohli](chart.png)
+
+Virat Kohli's Wikipedia page drew its highest number of views on 4 November 2026, with 36,019 views — more than five times the month's daily average of 6,631.3.
+
+Data: Wikimedia page views (CC0), collected by my data robot.
+
+Robot repository: https://github.com/viperdetox-creator/data-robot
